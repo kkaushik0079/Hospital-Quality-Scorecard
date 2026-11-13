@@ -2,7 +2,7 @@
 
 An interactive quality dashboard for a fictional 10-hospital system, tracking the measures hospital leadership reviews every month: 30-day readmissions, patient experience, emergency department throughput, sepsis care and infection control.
 
-**Live demo:** [https://kkaushik0079.github.io/Hospital-Quality-Scorecard/]
+**Live demo:** https://kkaushik0079.github.io/Hospital-Quality-Scorecard/
 
 > **All data is synthetic.** Hospital names are fictional, and no values come from CMS or any real hospital. Measure definitions are modeled on public CMS quality programs.
 
